@@ -1,0 +1,66 @@
+
+.noto-serif-normal {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight:800px;
+  font-size: 65px;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+
+
+
+
+/* headar */
+
+.header{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+
+nav ul li{
+    
+    list-style: none;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    gap: 50px;
+    font-size: 1.25rem;
+}
+
+.header-banner{
+    display: flex;
+    margin-top: 100px;
+    justify-content: end;
+    align-items: end;
+}
+.banner{
+    align-items: center;
+}
+
+.header-tille{
+    max-width: 530px;
+}
+
+.FRESH{
+    color: rgba(233, 90, 8, 1);
+}
+
+.FLOWERS{
+    color: rgba(233, 90, 8, 1);
+}
+
+.header-description{
+    max-width: 530px;
+}
