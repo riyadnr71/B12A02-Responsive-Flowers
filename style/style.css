@@ -64,3 +64,24 @@ nav ul {
 .header-description{
     max-width: 530px;
 }
+
+
+
+
+
+
+
+
+@media screen and (max-width:576px) {
+    nav{
+        flex-direction: column;
+    }
+
+    .header-banner{
+        flex-direction: column-reverse;
+    }
+    .banner{
+        text-align: center;
+    }
+    
+}
