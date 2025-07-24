@@ -273,7 +273,7 @@ nav ul {
 .subscribe-section {
     margin-top: 100px;
     width: 100%;
-    background: url('/assets/news-letter-bg.png') no-repeat center center/cover;
+    background: url("/assets/sample-flower-image.png") no-repeat center center/cover;
     color: #fff; 
     text-align: center;
     padding: 100px 20px; 
