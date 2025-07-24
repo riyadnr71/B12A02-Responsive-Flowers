@@ -431,6 +431,7 @@ footer{
         justify-content: start;
         text-align: start;
         flex: 1;
+        display:none;
         
     }
     .footer-nav ul{
@@ -463,16 +464,20 @@ footer{
         width: 50%;
     }
 
-    .email-input {
-        width: 50%;
-    }
+    
 
     .section-title {
         font-size: 1.2em;
         text-align: start;
         color: #ff6600;
     }
+    .footer-logo-description{
+        width:330px;
+    }
 
+    .letast-main{
+        display: none;
+    }
 
 
     
