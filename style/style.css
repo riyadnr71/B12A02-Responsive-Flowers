@@ -556,7 +556,10 @@ footer{
 }
 
 .footer-nav-logo{
+    margin-left: 20px;
     margin-top: 30px;
+    align-items: center;
+    text-align: center;
 }
 
 .footer-navber, .footer-navbar-iteam{
