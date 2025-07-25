@@ -550,6 +550,11 @@ footer{
     display: flex;
 }
 
+.navbar{
+    flex-direction: row;
+   align-items: center;
+}
+
     
 
 
