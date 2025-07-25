@@ -555,6 +555,14 @@ footer{
    align-items: center;
 }
 
+.footer-nav-logo{
+    margin-top: 30px;
+}
+
+.footer-navber, .footer-navbar-iteam{
+    margin-left: 10px;
+}
+
     
 
 
